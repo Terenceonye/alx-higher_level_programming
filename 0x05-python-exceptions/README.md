@@ -1,6 +1,6 @@
 # 0x05. Python - Exceptions
 ## Python
- By: Guillaume
+ By: Terenceonye
  Weight: 1
  Project will start Oct 9, 2022 10:00 PM, must end by Oct 10, 2022 10:00 PM
  was released at Oct 10, 2022 4:00 AM
